@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="hint">enter the search term</string>
+    <string name="search">Search</string>
+</resources>
